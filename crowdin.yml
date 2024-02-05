@@ -1,0 +1,3 @@
+files:
+  - source: /languages/Lichu.pot
+    translation: /languages/%locale_with_underscore%.po
